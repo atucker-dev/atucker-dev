@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atucker-dev
 - 👀 I’m interested in anything related to Information Security, most of my experience is in identity and access management
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently studying for the CSAA certification and learning ReactJS
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me actkant@gmail.com
 
