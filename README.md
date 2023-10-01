@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atucker-dev
-- 👀 I’m interested in anything related to Information Security, most of my experience is in identity and access management
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in anything related to K8s, Information Security, most of my experience is in Identity and Access Management solutions.
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on: not sure yet
 - 📫 How to reach me actkant@gmail.com
 
